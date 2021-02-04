@@ -1,0 +1,6 @@
+CS_160 John_Smith F MWF 2:00pm 2:50pm Weniger_151 3 99 102 101 
+CS_160 John_Smith W MWF 2:00pm 2:50pm Weniger_151 0 
+CS_161 Jane_Orion S TR 12:00pm 12:50pm Johnson_102 2 99 12 
+CS_162 Sally_Overflow U MTWRF 10:00am 10:50am Milam_204 1 99 
+CS_261 John_Smith W MWF 8:00am 8:50am Johnson_102 0 
+Bio Bob 2     1  

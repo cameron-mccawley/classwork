@@ -1,0 +1,6 @@
+Tommy_Test 99 CS_160 F CS_161 S CS_162 U
+Johnny_Test 102 CS_160 F
+Mystery_Student 101 CS_160 F CS_162 U Bio U
+Tina_Test 12 CS_161 S
+Jamie_Test 100 CS_261 W
+Leona 321 CS_160 F Bio U
