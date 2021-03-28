@@ -1,0 +1,23 @@
+
+function optimal_location(city[][], t): //city is graph of city, t number of towns
+	
+	optimal = -1 
+	sum = infinity //initilize all distances to infinity
+
+	//find the optimal locations
+	for i = 0 to t-1:
+		currSum = 0
+		distances[] = Dijkstra(city[][], t, i) //our source vertex will be i
+		edges = length(distances)
+
+		//find the sum of all edges
+		for j=0 to edges - 1:
+			currSum += distances[j]
+
+		if sum > currSum:
+			sum = currSum
+			optimal = i
+	
+	return optimal
+
+
